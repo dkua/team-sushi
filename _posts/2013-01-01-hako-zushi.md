@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ki/Shi
-link: ki-shi
+title: Hako-Zushi
+link: hako-zushi
 ---
 
-Sushi as it was before, it started as the fermentation and preservation of fish guts called Ki/Shi. here has been a rising demand for sushi dishes across the globe for its taste and aesthetics. Looking at Sushi’s history, Sushi, surprisingly, was not of Japanese Origin. According to some sources, Sushi was traced as far back in China and from there was able to move to Japan. The farthest evidence we have in tracing the roots of Sushi dates back to the 4th century found in the Chinese dictionary (Mouritsen, 15). 
+In order to make it, you must Place rice wine vinegar on the cooked rice, fIillet fish desired to make into sushi, place both together ( the rice and the fish) in a small wooden box and  compress the box by applying pressure to it with your hands. Lastly, take the block of fish and rice out of the box and slice it into blocks. Then serve the blocks of sushi to everyone on a plate.
