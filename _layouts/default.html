@@ -7,17 +7,23 @@
 
     <div class="container content">
       <div class="masthead">
-        <h3 class="masthead-title">
-          <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
+        <h1 class="masthead-title">
+          <a href="{{ site.baseurl }}" title="Home" name="top">{{ site.title }}</a>
           <small>{{ site.tagline }}</small>
-        </h3>
+        </h1>
+        Yes, that is what I had in mind, thank you. It looks like you might be able to factor out the validation of the edge letter string; typically, if there is a setter, then this can be used in the init to handle validation. Also, for the "closed" or "LRBT" case, maybe you need to just use the rectangle; one way or another, the polygon should be closed so that when it is drawn there is no line-end artifact at the starting/ending corner.
       </div>
+    </div>
 
+    <a name="timeline">
+      <iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AkvtnOAfCzyFdEktRFlyOWw1R2pKVV9XYmhFWGN5V0E&font=Bevan-PotanoSans&maptype=toner&lang=en&height=650' width='100%' height='650' frameborder='0'></iframe>
+    </a>
+
+    <div class="container content">
       {{ content }}
-
       <div class="footer">
         <p>
-          &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+        &copy; {{ site.team }} {{ site.time | date: '%Y' }}. All rights reserved.
         </p>
       </div>
     </div>

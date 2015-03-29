@@ -7,17 +7,18 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
-paginate:         1
-baseurl:          http://dkua.github.io/poole/
+title:            A Short History of Sushi
+tagline:          By Team Sushi
+url:              /
+paginate:         100
+baseurl:          /
+team:             Team Sushi
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           David Kua
+  url:            https://github.com/dkua
+  email:          david.kua@mail.utoronto.ca
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/dkua/team-sushi
