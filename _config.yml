@@ -11,7 +11,7 @@ title:            A Short History of Sushi
 tagline:          By Team Sushi
 url:              /
 paginate:         100
-baseurl:          /
+baseurl:          http://dkua.github.io/team-sushi/
 team:             Team Sushi
 author:
   name:           David Kua
@@ -21,4 +21,4 @@ author:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/dkua/team-sushi
+  repo:           https://github.com/dkua/poole
