@@ -4,6 +4,8 @@ title: Cultural Influences
 link: cultural-influences
 ---
 
+![Japanese Food Stand](http://i.imgur.com/rqMQfqk.jpg)
+
 It wasn’t all easy for sushi to be accepted in Japan. During the 531-580 C.E. 
 When Buddhism spread to Japan, eating meat was restricted which lowered consumption of sushi in Japan. Preference for vegetable became reinforced as a substitute for meat (Ashkenazi and Jacob, 7). However, this changed after the aristocratic system was overthrown.
 
